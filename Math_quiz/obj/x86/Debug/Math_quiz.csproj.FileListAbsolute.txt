@@ -6,3 +6,5 @@ E:\C#\Math_quiz\Math_quiz\obj\x86\Debug\Math_quiz.csproj.GenerateResource.Cache
 E:\C#\Math_quiz\Math_quiz\obj\x86\Debug\Math_quiz.exe
 E:\C#\Math_quiz\Math_quiz\obj\x86\Debug\Math_quiz.pdb
 E:\C#\Math_quiz\Math_quiz\obj\x86\Debug\Math_quiz.csprojResolveAssemblyReference.cache
+C:\Users\Michal\Desktop\repository\Math_quiz\obj\x86\Debug\Math_quiz.exe
+C:\Users\Michal\Desktop\repository\Math_quiz\obj\x86\Debug\Math_quiz.pdb
