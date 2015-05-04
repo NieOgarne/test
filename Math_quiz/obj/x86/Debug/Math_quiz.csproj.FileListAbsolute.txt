@@ -1,0 +1,8 @@
+E:\C#\Math_quiz\Math_quiz\bin\Debug\Math_quiz.exe
+E:\C#\Math_quiz\Math_quiz\bin\Debug\Math_quiz.pdb
+E:\C#\Math_quiz\Math_quiz\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\C#\Math_quiz\Math_quiz\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\C#\Math_quiz\Math_quiz\obj\x86\Debug\Math_quiz.csproj.GenerateResource.Cache
+E:\C#\Math_quiz\Math_quiz\obj\x86\Debug\Math_quiz.exe
+E:\C#\Math_quiz\Math_quiz\obj\x86\Debug\Math_quiz.pdb
+E:\C#\Math_quiz\Math_quiz\obj\x86\Debug\Math_quiz.csprojResolveAssemblyReference.cache
